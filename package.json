@@ -1,0 +1,19 @@
+{
+  "name": "saving-app",
+  "version": "0.0.1",
+  "description": "prototype angular js saving app",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "laravel5"
+  ],
+  "author": "anthony.ras",
+  "license": "MIT"
+}
